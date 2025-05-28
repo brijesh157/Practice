@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "practice",
+  "version": "1.0.0",
+  "main": "promise1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brijesh157/Practice.git"
+  },
+  "author": "Brijesh Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brijesh157/Practice/issues"
+  },
+  "homepage": "https://github.com/brijesh157/Practice#readme",
+  "description": ""
+}
